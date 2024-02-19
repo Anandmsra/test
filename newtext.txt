@@ -1,3 +1,5 @@
 new text file
 this is a text file
  made some changes
+accessing through ssh method
+and modify file
